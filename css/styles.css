@@ -1,7 +1,16 @@
-div {
-    background-color: #EDE6DB;
-}
+body {
+    margin: 0px;
+    }
+
+h1 {
+    margin: 0px;
+    }
 
 h1, p {
     color: #1D5C63;
-}
+    }
+
+div {
+    background-color: #EDE6DB;
+    }
+
