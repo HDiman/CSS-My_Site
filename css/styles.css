@@ -10,7 +10,18 @@ h1, p {
     color: #1D5C63;
     }
 
-div {
+.top-div {
     background-color: #EDE6DB;
     }
 
+.middle-div {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    }
+
+.bottom-div {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    }
