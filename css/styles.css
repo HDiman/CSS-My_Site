@@ -10,18 +10,26 @@ h1, p {
     color: #1D5C63;
     }
 
-.top-div {
+.top-container {
     background-color: #EDE6DB;
-    }
-
-.middle-div {
     width: 200px;
     height: 200px;
+    padding: 20px;
+    border: 10px black solid;
+    }
+
+.middle-container {
     background-color: red;
-    }
-
-.bottom-div {
     width: 200px;
     height: 200px;
-    background-color: blue;
+    border: 20px black solid;
+    margin-left:260px;
+    }
+
+.bottom-container {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: 10px black solid;
+    margin-left:500px;
     }
